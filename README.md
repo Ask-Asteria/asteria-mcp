@@ -8,6 +8,8 @@
   <b><a href="https://askasteria.com">askasteria.com</a></b> · free birth chart, zodiac compatibility, Moon phase and tarot reading · <a href="https://askasteria.com/app/">Get the Asteria app</a>
 </p>
 
+<p align="center"><a href="https://mcptry.com/servers/com.askasteria/asteria"><img src="https://mcptry.com/badge/com.askasteria/asteria" alt="mcptry status and score"></a></p>
+
 Asteria is an astrology and tarot companion. This MCP server brings it into Claude, ChatGPT and any MCP client: **natal chart** (birth chart) with Sun, Moon and rising sign, **zodiac sign** and horoscope readings, **love compatibility** of two signs, the **Moon phase** and the sky of the day, **tarot draws**, tarot spreads, a **yes-or-no tarot oracle** and the meaning of all 78 tarot cards. Readings in English, French, Spanish, Portuguese, German and Japanese.
 
 **Server URL:** `https://askasteria.com/mcp` · Streamable HTTP · no account, no API key · official MCP Registry: `com.askasteria/asteria`
