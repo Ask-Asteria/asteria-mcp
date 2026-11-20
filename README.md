@@ -50,6 +50,7 @@ All tools are read-only.
 
 | Tool | What it does |
 | --- | --- |
+| `my_day` | Your **daily horoscope** read on your own birth chart, as the Asteria app reads it: the transit that leads your day and where it stands, the app's text for the day, then the Moon of the day in your natal house. |
 | `birth_chart` | Natal chart (birth chart): Sun, Moon and planets with signs and degrees, Chiron, North Node, major aspects; with birth time and place, the Ascendant, Midheaven and the twelve Placidus houses. A reading for each placement and the chart wheel. |
 | `sun_sign` | Zodiac sign (Sun sign) from a birth date, with its astrology reading. |
 | `moon_sign` | Moon sign, with its reading. |
